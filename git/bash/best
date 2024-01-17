@@ -1,4 +1,4 @@
 #!/bin/bash
-best
+echo "Best School"
 
 
